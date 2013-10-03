@@ -41,16 +41,9 @@
   color: #0e5682;
 }
 
-.cd-nav {
-  height: 2px;
-
 .office-hours {
-  border-bottom-left-radius: 6px;
-  border-bottom-right-radius: 6px;
-  border-top-left-radius: 6px;
-  border-top-right-radius: 6px;
-  box-sizing: border-box;
-  background-color: lightgrey;
+  box-shadow: 0 0 7px 3px rgba(0,0,0,.35);
+  background-color: rgb(238,238,238);
 }
 
 .office-hours ul li {

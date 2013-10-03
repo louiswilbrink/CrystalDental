@@ -14,6 +14,16 @@ footer {
   bottom: 0px;
 }
 
+.container
+.jumbotron {
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  box-shadow: 0 0 7px 3px rgba(0,0,0,.35);
+  border: 1px solid #67E667;
+}
+
 .jumbotron h1 {
   font-size: 53px;
 }
