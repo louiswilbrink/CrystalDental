@@ -1,0 +1,19 @@
+/* OVERRIDES */
+
+* { margin: 0; padding: 0 ; }
+
+body, h1, h2 {
+  font-family: 'titillium_webregular', Helvetica, sans-serif;
+}
+
+.container {
+}
+
+footer {
+  position: absolute;
+  bottom: 0px;
+}
+
+.jumbotron h1 {
+  font-size: 53px;
+}

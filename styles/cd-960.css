@@ -1,0 +1,68 @@
+/* Styles for screens with at least 960px width */
+
+.centered {
+  text-align: center;
+}
+
+.cd-blue {
+  background-color: lightblue;
+}
+
+.cd-grey {
+  background-color: grey;
+}
+
+.masthead {
+  height: 100px;
+  display: block;
+  overflow: hidden;
+}
+
+.logo {
+  height: 100%;
+  float: left;
+  position: relative;
+}
+
+.logo img {
+  position: absolute;
+  top: 50%;
+  margin-top: -32px;
+  margin-left: 5px;
+}
+
+.contact-info {
+  float: right;
+  text-align: right;
+}
+
+.contact-info .number {
+  font-size: 30px;
+  color: #0e5682;
+}
+
+.cd-nav {
+  height: 2px;
+
+.office-hours {
+  border-bottom-left-radius: 6px;
+  border-bottom-right-radius: 6px;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+  box-sizing: border-box;
+  background-color: lightgrey;
+}
+
+.office-hours ul li {
+  list-style-type: none;
+  text-align: center;
+}
+
+.office-hours ul li div {
+  display: inline-block;
+}
+
+.day {
+  width: 105px;
+  text-align: left;
+}
